@@ -1,0 +1,10 @@
+.footer {
+  margin: 0 auto;
+  text-align: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.no-select {
+  user-select: none;
+}
